@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 # Created by Andrew Bednoff (AndrCmdr)
-# E-mail: andrew.bednoff@yandex.com
+# E-mail: andrew.bednoff{<at>}yandex.com
 # 2015-05-24@04:20:33
 
 $num_classes = {
